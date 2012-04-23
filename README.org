@@ -1,0 +1,5 @@
+* Overview
+A template for [[http://mzl.la/IcojkS][restartless]] (AKA: bootstrapped) add-ons for [[http://bit.ly/IbQTRK][Mozilla's]] [[http://bit.ly/HJD0Lt][applications]] that doesn't use [[http://bit.ly/IbRfb8][JetPack]].
+
+
+# LocalWords:  restartless
